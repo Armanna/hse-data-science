@@ -1,4 +1,4 @@
-# Emotion Classification in UFC/MMA Twitter Discourse
+# A Deep Learning Approach to Automatically Identify Emotions in Text Data
 
 Transformer-based emotion classification on a dataset of ~96k English-language tweets related to UFC and MMA events, collected from Twitter/X (January 2020 -- May 2026). Tweets are labeled with seven emotion categories (Ekman's six basic emotions + neutral). We fine-tune BERT and RoBERTa with focal loss and compare against TF-IDF baselines (Logistic Regression, SVM, Naive Bayes).
 
